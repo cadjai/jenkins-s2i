@@ -167,3 +167,6 @@ workflow-support:2.18
 ws-cleanup:0.34
 xunit:1.102
 greenballs:1.15
+ansicolor:0.7.2
+timestamper:1.11.5
+sonar:2.11
